@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>obj\appIco.ico</ApplicationIcon>
+    <Configurations>Debug;Release;Prova</Configurations>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Copyright>By Giuseppe Biuso</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="obj\appIco.ico" />
+  </ItemGroup>
+
+</Project>
