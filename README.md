@@ -9,4 +9,5 @@ Funzionalità principali:
 - Supporto a selezione e copia del testo
 
 Realizzata con Visual Studio 2022 in C#.
+
 Download compilato: https://github.com/gbiuso/CC245X_Terminal/releases/download/JDY-23/CC245X_Terminal.exe
